@@ -1,4 +1,5 @@
 # practice_1_db_scheme
+Сидоров Максим Максимович ЭФМО-02-24
 ![image](https://github.com/user-attachments/assets/94a9a123-1cbb-4adf-96e2-ae7d1198bcbc)
 
 Схема базы данных книжного интернет-магазина. 
